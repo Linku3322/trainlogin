@@ -1,0 +1,134 @@
+.head {
+    font-size: 30px;
+}
+#content {
+    display: flex;
+    justify-content: space-between;
+    align-items: self-start;
+}
+.table-idea {
+    display: flex;
+    gap: 10px 10px;
+}
+.booking-detail {
+    border: 1px solid black;
+    background-color: rgb(13, 13, 122);
+    color: white;
+}
+.pnr-detail {
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.chart-detail {
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.text {
+     color: rgb(17, 216, 17);
+}
+.text-text {
+    color: rgb(233, 88, 36);
+}
+.text-textdesign {
+    color: rgb(54, 52, 52);
+}
+#ticket-content {
+    display: flex;
+    flex-direction: row;
+    gap: 20px 200px;
+    border: 1px solid black; 
+    width: fit-content;
+    padding-block: 10px;
+    padding-inline-end: 40px;
+
+    
+    
+}
+.from-detail {
+    padding-left: 50px;
+    
+
+
+}
+.mainnav {
+    padding: 3px;
+}
+#ticket-advanced {
+    display: flex;
+    flex-direction: row;
+    gap: 105px 105px;
+    padding-left: 50px;
+    border: 1px solid black; 
+    width: fit-content;
+    padding-block: 10px;
+    padding-inline-end: 40px;
+
+
+}
+.mainavigate {
+    padding: 0px;
+}
+.sonia-tyope {
+    visibility: visible;
+    opacity: 0.5;
+    font-size: 1em;
+}
+.rama {
+    visibility: visible;
+    opacity: 0.5;
+}
+.india {
+    visibility: visible;
+    opacity: 0.5;
+}
+.europe {
+    visibility: visible;
+    opacity: 0.5;
+}
+.from-dupli {
+    visibility: visible;
+    opacity: 0.5;
+}
+.gujurat {
+    visibility: visible;
+    opacity: 0.5;
+}
+.deg {
+    position: absolute;
+    left: 700px;
+    top: 10px;
+    
+}
+.meg {
+    position: absolute;
+    top: 300px;
+    right: 118px;
+}
+.butt {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(32, 221, 32);
+    color: blanchedalmond;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 15px;
+    width: 38%;
+}
+#main-part {
+    display: grid;
+    position: absolute;
+    top: 0.5px;
+    right: 800px
+
+
+
+}
+.logu {
+    background-color: orangered;
+    color: white;
+    border: none;
+    padding: 5px 5px;
+    border-radius: 5px;
+}
+
